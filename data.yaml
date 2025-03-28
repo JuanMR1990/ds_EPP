@@ -1,0 +1,7 @@
+# Dataset configuration
+    train: ../train/images
+    val: ../valid/images
+    test: ../test/images
+    nc: 7  # Number of classes
+    names: ['Arnes_seguridad', 'Gafas', 'Guantes', 'Mascara', 'Sin_gafas', 'Sin_guantes', 'Sin_mascara']  # Class names
+    
